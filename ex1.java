@@ -1,3 +1,5 @@
+//Given an entered n, it creates a Pascal triangle but replaces number with the respective Ascii character. If it exceeds 24, it returns to 1.
+
 import java.util.Scanner;  // Import the Scanner class
 
 public class ex1 {
